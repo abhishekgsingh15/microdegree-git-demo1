@@ -1,0 +1,7 @@
+git init or git clone
+>Git status
+>Git add <filename>
+>Git commit -m “adding the print statement”
+>Git push 
+
+
