@@ -4,4 +4,11 @@ git init or git clone
 >Git commit -m “adding the print statement”
 >Git push 
 
+Adding multiple files and changes
+>Git status
+>Git add . 
+Adds all the changes made in local
+>Git status
+>Git commit -m “adding the print statement”
+>Git push 
 
